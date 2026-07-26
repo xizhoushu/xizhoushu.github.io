@@ -1,0 +1,40 @@
+primary_name: "Xi Zhou"
+secondary_name: "周熙"
+navbar_name: "Xi Zhou"
+portrait: /assets/images/profile/owl-flight.png
+
+positions:
+- name: Algorithm Engineer
+- name: Shanghai AI Laboratory · 上海人工智能实验室
+
+email: "18853855110zx@gmail.com"
+gscholar: cntY5wMAAAAJ
+github: xizhoushu
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am an algorithm engineer at <strong>Shanghai AI Laboratory</strong>,
+    working on deep learning for time series and physical systems. My research
+    interests include long-horizon prediction, latent dynamics, and reliable
+    adaptation to changing environments.
+  </p>
+  <p>
+    I favor simple, structure-aware methods and care about how they perform
+    beyond controlled benchmarks. I also explore how AI agents can support
+    scientific research and engineering, with the goal of turning open-ended
+    problems into practical and reliable systems.
+  </p>
+
+education:
+- name: Shanghai University · 上海大学
+  logo: /assets/images/logos/shanghai-university.gif
+  position: Graduate Study
+  date: 2019 - 2023
+
+experience:
+- name: Shanghai AI Laboratory · 上海人工智能实验室
+  logo: /assets/images/logos/shanghai-ai-laboratory.webp
+  logo_class: shlab-logo
+  position: Algorithm Engineer
+  date: 2023 - present
