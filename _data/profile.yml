@@ -14,16 +14,14 @@ github: xizhoushu
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an algorithm engineer at <strong>Shanghai AI Laboratory</strong>,
-    working on deep learning for time series and physical systems. My research
-    interests include long-horizon prediction, latent dynamics, and reliable
-    adaptation to changing environments.
+    I am an algorithm engineer at <strong>Shanghai AI Laboratory</strong>.
+    I work on <strong>AI for mixed-integer linear programming (AI4MILP)</strong>:
+    using large language models to design solving algorithms, and agents to
+    speed up the search.
   </p>
   <p>
-    I favor simple, structure-aware methods and care about how they perform
-    beyond controlled benchmarks. I also explore how AI agents can support
-    scientific research and engineering, with the goal of turning open-ended
-    problems into practical and reliable systems.
+    The methods behind this include large-model fine-tuning and reinforcement
+    learning, aimed at solvers that are faster and more reliable on real instances.
   </p>
 
 education:
